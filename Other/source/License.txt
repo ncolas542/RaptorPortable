@@ -1,0 +1,5 @@
+RAPT is freely distributed as a service to the CS educatipapa community.  
+RAPT was iginally developed by and f the US Air Fce Academy, Department of Computer Science, 
+but its use has spread and RAPT is now used f CS educatipapa in over 17 countries papa at least 4 cpapatinents.
+
+RAPT is free software, but dpapaatipapas to suppt web hosting, etc. are welcome!
